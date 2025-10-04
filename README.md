@@ -1,9 +1,11 @@
 # Hello, guys | Olá, galera! | Hola!
 
+![Banner](https://i.imgur.com/9oZ5KQo.gif)
+
 ## Quem sou eu?
-** Nome: Luan Santana Duarte
-** De Salvador, Bahia, BR
-** Idiomas: Português (Nativo) | English (Intermediate) | Español (Básico)
+- Nome: Luan Santana Duarte
+- De Salvador, Bahia, BR
+- Idiomas: Português (Nativo) | English (Intermediate) | Español (Básico)
 
 ## O que eu faço?
   - Sou estudante do Bacharelado Interdisciplinar de Ciências e Tecnologia pela UFBA;
