@@ -26,8 +26,8 @@ console.log("Olá galera!");
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantana.duarte7@gmail.com)
 
 ### 📊 Minhas estatísticas
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansantanaduarte&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantanaduarte&layout=compact&theme=radical)
 
 
