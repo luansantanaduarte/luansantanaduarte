@@ -1,5 +1,9 @@
 # 👋 Hello, guys | Olá, galera! | Hola!
 
+```js
+console.log("Olá galera!");
+```
+
 ## 👤Quem sou eu?
 - Nome: Luan Santana Duarte
 - De Salvador, Bahia, BR
