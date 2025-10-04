@@ -7,7 +7,7 @@
 
 ## 📚 O que eu faço?
   - Sou estudante do Bacharelado Interdisciplinar de Ciências e Tecnologia pela UFBA;
-  - Realizo formação em Front-End pelo Ford <Enter>, no SENAI Cimatec;
+  - Realizo formação em Front-End pelo Ford Enter, no SENAI Cimatec;
   - Apresento curiosidade em Desenvolvimento Full-Stack e IA.
 
 ## 💻 Tecnologias
