@@ -1,4 +1,4 @@
-# 👋 Hello, guys | Olá, galera! | Hola!
+# Olá, galera!
 
 ```js
 console.log("Olá galera!");
