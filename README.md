@@ -9,7 +9,7 @@
 </p>
 
 ### 👤 SOBRE MIM
-* De **Salvador, Bahia, BR**
+* De **Salvador, Bahia, 🇧🇷**
 * Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia
 > Trata-se de um curso que preconiza uma formação interdisciplinar, possibitando o progressão para um curso de bacharelado ou licenciatura do meu interesse. Pretendo migrar para Ciência da Computação.
 * Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**
