@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=33CC33&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou;o+Luan+Duarte;Desenvolvedor+Full+Stack" alt="Efeito Digitação Luan Duarte" />
-</p>
+<h1 align="center">👋 Olá, eu sou o Luan Duarte</h1>
+<p align="center"><em>Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.</em></p>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300">
 
