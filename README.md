@@ -12,4 +12,4 @@
 * Apresento muita curiosidade em **formação Full-Stack** e **Inteligência Artificial**
 
 ### 💻 Tecnologias
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=html5&logoColor=green&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/:html5?style=flat&logo=html5&logoColor=green&logoSize=auto)
