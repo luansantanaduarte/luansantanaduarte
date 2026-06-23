@@ -16,4 +16,5 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23100000.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Estatísticas do Github
-![luansantanaduarte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luansantanaduarte&theme=vue-dark&hide_border=false)
+![luansantanaduarte's Stats](https://github-readme-stats.vercel.app/api?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![luansantanaduarte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
