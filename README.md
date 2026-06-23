@@ -1,6 +1,8 @@
-# Olá, eu sou o Luan Duarte!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=33cc33&height=180&section=header&text=Luan%20Duarte&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descFontSize=30" alt="Banner Animado Luan Duarte" />
+</p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="420">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300">
 
 ### 👤 SOBRE MIM
 * De Salvador, Bahia, BR
@@ -20,4 +22,5 @@
 ![luansantanaduarte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝 Conecte-se comigo!
+Vamos seguir nessa jonarda de desenvolvimento juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luansduarte/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantana.duarte7@gmail.com)
