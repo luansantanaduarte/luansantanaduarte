@@ -1,28 +1,4 @@
-# Olá, galera!
-
-```js
-console.log("Olá galera!");
-```
-
-## 👤Quem sou eu?
-- Nome: Luan Santana Duarte
-- De Salvador, Bahia, BR
-- Idiomas: Português (Nativo) | English (Intermediate) | Español (Básico)
-
-## 📚 O que eu faço?
-  - Sou estudante do Bacharelado Interdisciplinar de Ciências e Tecnologia pela UFBA;
-  - Realizo formação em Front-End pelo Ford Enter, no SENAI Cimatec;
-  - Apresento curiosidade em **Desenvolvimento Full-Stack** e **IA**.
-
-## 💻 Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## ☎️ Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantana.duarte7@gmail.com)
-
+# Olá, eu sou o Luan Duarte
+''' html
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif">
+'''
