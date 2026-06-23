@@ -26,7 +26,6 @@
 ### 📊 ESTATÍSTICAS DO GITHUB
 ![luansantanaduarte's Stats](https://github-readme-stats.vercel.app/api?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![luansantanaduarte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-![Snake animation](https://github.com/luansantanaduarte/luansantanaduarte/blob/output/github-contribution-grid-snake.svg)
 
 ### 🤝 CONECTE-SE COMIGO!
 **Vamos seguir nessa jonarda de desenvolvimento juntos!**
