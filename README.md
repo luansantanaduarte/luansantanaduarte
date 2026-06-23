@@ -10,14 +10,13 @@
 
 ### 👤 SOBRE MIM
 * De **Salvador, Bahia, BR**
-* Idiomas: Português (Nativo) | English (Intermediate) | Español (Básico)
-
-### 📚 O QUE EU FAÇO
-* Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia
+* * Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia
 > Trata-se de um curso que preconiza uma formação interdisciplinar, possibitando o progressão para um curso de bacharelado ou licenciatura do meu interesse. Pretendo migrar para Ciência da Computação.
 * Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**
 * Apresento muita curiosidade em **formação Full-Stack** e **Inteligência Artificial**
 
+## IDIOMAS 
+![Português](https://img.shields.io/badge/Português-Nativo-44cc11?style=for-the-badge) ![English](https://img.shields.io/badge/English-Intermediate-007acc?style=for-the-badge) ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge)
 
 ### 🛠️ TECNOLOGIAS E FERRAMENTAS
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23100000.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
