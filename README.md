@@ -25,6 +25,6 @@
 ![luansantanaduarte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantanaduarte&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝 Conecte-se comigo!
-Vamos seguir nessa jonarda de desenvolvimento juntos!
+*Vamos seguir nessa jonarda de desenvolvimento juntos!*
 <br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luansduarte/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantana.duarte7@gmail.com)
