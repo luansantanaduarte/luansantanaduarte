@@ -15,7 +15,7 @@
 * Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**
 * Apresento muita curiosidade em **formação Full-Stack** e **Inteligência Artificial**
 
-## IDIOMAS 
+### 🌐 IDIOMAS 
 ![Português](https://img.shields.io/badge/Português-Nativo-44cc11?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![English](https://img.shields.io/badge/English-Intermediate-007acc?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
