@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=2000&color=33CC33&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Luan+Duarte!" alt="Olá, sou Luan Duarte!" />
 </p>
 
-## Welcome to my Github profile!
+<p align="center"> Welcome to my Github profile! </p>
+
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300">
 </p>
