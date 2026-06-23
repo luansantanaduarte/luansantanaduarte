@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Luan Duarte</h1>
-<p align="center"><em>Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.</em></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=00ff00&height=150&section=header&text=Luan%20Duarte&fontSize=90&animation=fadeIn&fontAlignY=50&desc=Desenvolvedor%20Full%20Stack&descFontSize=25&descAlignY=80" alt="Banner Animado Luan Duarte" />
+</p>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300">
 
