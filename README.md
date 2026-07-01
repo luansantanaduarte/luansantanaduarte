@@ -25,7 +25,7 @@
 
 ### 📊 ESTATÍSTICAS DO GITHUB
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=dark)
 
 ### 🤝 CONECTE-SE COMIGO!
 **Vamos seguir nessa jonarda de desenvolvimento juntos!**
