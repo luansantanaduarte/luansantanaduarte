@@ -27,6 +27,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=highcontrast)
 
-### 🤝 CONECTE-SE COMIGO!
-**Vamos seguir nessa jonarda de desenvolvimento juntos!:**
+### 🤝 CONECTE-SE COMIGO, VAMOS SEGUIR NESSA JORNADA JUNTOS!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luansduarte/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantana.duarte7@gmail.com)
