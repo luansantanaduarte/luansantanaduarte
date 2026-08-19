@@ -5,7 +5,7 @@
 <h2 align="center"> Welcome to my Github profile! </h2>
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN6N2o2N25reHFlbXRyMHZ5Z3B6bWJ0OWVhandkeHQ4ZjJjOG0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN5bXN5ZjRidzNkMDJqMWJxejA1azN3b2h5bms5Z3VpejVvenl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
 </p>
 
 ### 👤 SOBRE MIM
