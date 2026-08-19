@@ -30,7 +30,7 @@
 ### 🤝 CONECTE-SE COMIGO, VAMOS SEGUIR NESSA JORNADA JUNTOS!
 ### 🤝 CONECTE-SE COMIGO, VAMOS SEGUIR NESSA JORNADA JUNTOS!
 
-<a href="www.linkedin.com/in/luansduarte" target="_blank">
+<a href="https://www.linkedin.com/in/luansduarte" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40">
 </a>
 &nbsp;
