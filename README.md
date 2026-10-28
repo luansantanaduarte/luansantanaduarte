@@ -28,7 +28,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)
 
 ### 🤝 CONECTE-SE COMIGO, VAMOS SEGUIR NESSA JORNADA JUNTOS!
-### 🤝 CONECTE-SE COMIGO, VAMOS SEGUIR NESSA JORNADA JUNTOS!
 
 <a href="https://www.linkedin.com/in/luansduarte" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40">
