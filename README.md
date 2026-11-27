@@ -8,7 +8,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN5bXN5ZjRidzNkMDJqMWJxejA1azN3b2h5bms5Z3VpejVvenl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
 </p>
 
-### 👤 SOBRE MIM
+## 👤 SOBRE MIM
 * De Salvador, Bahia, 🇧🇷
 * Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia, com interesse em Ciência da Computação.
 * Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
