@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=2000&color=33CC33&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Luan+Duarte!" alt="Olá, sou Luan Duarte!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=2000&color=33CC33&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Luan+Duarte!" alt="Olá, sou Luan Duarte!" width="150"/>
 </p>
 
 <p align="center">
