@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=2000&color=33CC33&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Luan+Duarte!" alt="Olá, sou Luan Duarte!" />
 </p>
 
-<h2 align="center"> Welcome to my Github profile! </h2>
-
 <p align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN5bXN5ZjRidzNkMDJqMWJxejA1azN3b2h5bms5Z3VpejVvenl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
 </p>
@@ -19,7 +17,7 @@
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ## 🛠️ TECNOLOGIAS E FERRAMENTAS
-### Fundamentos WEB: 
+### Atualmente estudando: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 <br>
 ### Versionamento: 
