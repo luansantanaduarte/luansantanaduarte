@@ -20,19 +20,15 @@
 
 ### 🛠️ TECNOLOGIAS E FERRAMENTAS
 Fundamentos WEB: 
-<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 <br>
 Versionamento: 
-<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
 <br>
 Em desenvolvimento: 
-<br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 <br>
 Outros conhecimento: 
-<br>
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
 ### 📊 ESTATÍSTICAS DO GITHUB
