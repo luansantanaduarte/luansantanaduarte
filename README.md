@@ -29,6 +29,8 @@
 ### Outros conhecimento: 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
+## 🚀 PROJETOS EM DESTAQUE
+
 ## 📊 ESTATÍSTICAS DO GITHUB
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)
 
