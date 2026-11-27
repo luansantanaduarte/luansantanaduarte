@@ -19,9 +19,12 @@
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### 🛠️ TECNOLOGIAS E FERRAMENTAS
-Fundamentos WEB: [![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
-Versionamento: [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
-Em desenvolvimento: [![My Skills](https://skillicons.dev/icons?i=angular,ty)](https://skillicons.dev)
+Fundamentos WEB: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+Versionamento: 
+[![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
+Em desenvolvimento: 
+[![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 Outros conhecimento: [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
 ### 📊 ESTATÍSTICAS DO GITHUB
