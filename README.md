@@ -19,19 +19,19 @@
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### 🛠️ TECNOLOGIAS E FERRAMENTAS
-Fundamentos WEB: 
+* Fundamentos WEB: 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 <br>
-Versionamento: 
+* Versionamento: 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
 <br>
-Em desenvolvimento: 
+* Em desenvolvimento: 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 <br>
-Outros conhecimento: 
+* Outros conhecimento: 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
