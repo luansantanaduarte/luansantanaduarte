@@ -10,10 +10,8 @@
 
 ### 👤 SOBRE MIM
 * De Salvador, Bahia, 🇧🇷
-* Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia
-> Trata-se de um curso que preconiza uma formação interdisciplinar, possibilitando a progressão para um curso de bacharelado ou licenciatura do meu interesse. Pretendo migrar para Ciência da Computação.
-* Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**
-* Apresento muita curiosidade em **formação Full-Stack** e **Inteligência Artificial**
+* Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia, com interesse em Ciência da Computação.
+* Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
 
 ### 🌐 IDIOMAS 
 ![Português](https://img.shields.io/badge/Português-Nativo-44cc11?style=for-the-badge&logo=googletranslate&logoColor=white)
@@ -21,7 +19,10 @@
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### 🛠️ TECNOLOGIAS E FERRAMENTAS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,git,github,py&theme=dark)](https://skillicons.dev)
+Fundamentos WEB: [![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+Versionamento: [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
+Em desenvolvimento: [![My Skills](https://skillicons.dev/icons?i=angular,ty)](https://skillicons.dev)
+Outros conhecimento: [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
 ### 📊 ESTATÍSTICAS DO GITHUB
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=luansantanaduarte&include_all_commits=true&disable_animations=true&theme=highcontrast)
