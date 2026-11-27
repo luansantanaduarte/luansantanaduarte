@@ -13,8 +13,8 @@
 ## 👤 SOBRE MIM
 * De Salvador, Bahia, 🇧🇷
 * Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia, com interesse em Ciência da Computação.
-* Formando em desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
-* Estudo **Desenvolvimento Front-End**, buscando aprimorar meus conhecimentos a partir da criação de projetos, transformando teoria em soluções reais.
+* Desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
+* Direciono meus estudos em **Desenvolvimento Front-End**, buscando aprimorar meus conhecimentos a partir da criação de projetos, transformando teoria em soluções reais.
 
 ## 🌐 IDIOMAS 
 ![Português](https://img.shields.io/badge/Português-Nativo-44cc11?style=for-the-badge&logo=googletranslate&logoColor=white)
@@ -23,7 +23,7 @@
 
 ## 🛠️ TECNOLOGIAS E FERRAMENTAS
 ### Atualmente estudando: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 ### Versionamento: 
 [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
@@ -31,16 +31,14 @@
 ### Em desenvolvimento: 
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 <br>
-### Outros conhecimento: 
+### Outros conhecimentos: 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
-## 📚 Atualmente aprendendo
+## 📚 ATUALMENTE APRENDENDO  
 * Aprimoramento de HTML, CSS e JavaScript.
 * Desenvolvimento de interfaces responsivas.
 * Fundamentos de TypeScript e Angular.
 * Boas práticas de organização e versionamento de código.
-
-## 🚀 PROJETOS EM DESTAQUE
 
 ## 📊 ESTATÍSTICAS DO GITHUB
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=luansantanaduarte&layout=compact&langs_count=4&disable_animations=true&theme=highcontrast)
