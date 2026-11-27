@@ -13,8 +13,8 @@
 ## 👤 SOBRE MIM
 * De Salvador, Bahia, 🇧🇷
 * Estudante da **Universidade Federal da Bahia (UFBA)** do Bacharelado Interdisciplinar em Ciência e Tecnologia, com interesse em Ciência da Computação.
-* Desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
-* Direciono meus estudos em **Desenvolvimento Front-End**, buscando aprimorar meus conhecimentos a partir da criação de projetos, transformando teoria em soluções reais.
+* Formação em Desenvolvimento Front-End pelo **SENAI CIMATEC**, através do **Ford <Enter>**.
+* Direciono meus estudos para **Desenvolvimento Front-End**, buscando aprimorar meus conhecimentos a partir da criação de projetos, transformando teoria em soluções reais.
 
 ## 🌐 IDIOMAS 
 ![Português](https://img.shields.io/badge/Português-Nativo-44cc11?style=for-the-badge&logo=googletranslate&logoColor=white)
@@ -22,7 +22,7 @@
 ![Español](https://img.shields.io/badge/Español-Básico-e05d44?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ## 🛠️ TECNOLOGIAS E FERRAMENTAS
-### Atualmente estudando: 
+### Tecnologias WEB: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 ### Versionamento: 
